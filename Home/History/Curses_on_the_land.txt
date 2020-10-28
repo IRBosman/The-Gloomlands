@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-28T19:14:18+01:00
+
+====== Curses on the land ======
+Created Wednesday 28 October 2020
+

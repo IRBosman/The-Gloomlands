@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-28T19:18:11+01:00
+
+====== Magic mushroom forest ======
+Created Wednesday 28 October 2020
+
+{{.\pasted_image.png}}
+
+* Myconids

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-28T19:18:55+01:00
+
+====== Factions ======
+Created Wednesday 28 October 2020
+
+* Most factions will generally vie for territory.
+* Have specific goals
+* They also want artifacts

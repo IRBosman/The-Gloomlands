@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-28T19:12:40+01:00
+
+====== Design principles ======
+Created Wednesday 28 October 2020
+
+* Standalone. Things need to be contained mostly within it
+* Relative size is? 
+* Ancient empire that fell and made the region essentially inhospitable
+* Sort of akin to US borderterritories in the colonization period
